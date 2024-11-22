@@ -30,7 +30,7 @@ Once you have activated your virtual environment and installed the necessary req
 python lwe.py
 ```
 
-Below are detailed some questions that you may want to answer as part of your research project. 
+Below are detailed some questions and extension tasks that you may want to answer or complete as part of your research project. They are all optional, but hopefully give you some ideas about where you can go with this task and consquently, your project write-up. 
 
 ### LWE Potential Extension Tasks
 
