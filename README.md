@@ -1,7 +1,7 @@
-**LWE Algorithm**
+## LWE Algorithm
 Implementation of a simple LWE algorithms using numpy to demonstrate the underlying techniques used in LWE.
 
-**Setup**
+### Setup
 Using the terminal, setup your Python virtual environment
 
 Create a virtual environment `.venv`:
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 If you have already created your virtual environment, you will only need to perform the activation step.
 
-**Usage**
+### Usage
 Once you have activated your virtual environment and installed the necessary requirements you will be able to run the algorithm.
 
 ```
@@ -32,7 +32,7 @@ python lwe.py
 
 Below are detailed some questions that you may want to answer as part of your research project. 
 
-**LWE Potential Extension Tasks**
+### LWE Potential Extension Tasks
 
 * **Use of Larger Parameters:** Increase the lattice dimension (n) and modulus (q) to make the algorithm more realistic and secure. For instance, try values like n=256 and q ≈ 2^12.
 * **Error Distribution:** Replace the simple noise generation with a discrete Gaussian distribution for added security. Libraries like PyCrypto or custom implementations can help.
